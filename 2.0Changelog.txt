@@ -1,0 +1,155 @@
+******************************************************************
+** 		  Theme Park World Patch 2 readme file		**
+** 			7th March 2000				**
+******************************************************************
+
+Thanks for downloading the second Theme Park World patch. It's
+intended to fix gameplay bugs not already fixed by the earlier
+patch, which are listed below. Hope you have fun - and keep
+publishing those parks!
+
+The Bullfrog Theme Park World team
+
+
+New Feature Notes:
+------------------
+
+If you create a park with a downloaded ride in it & save it, then
+reinstall the game, you may need to reinstall the downloaded ride,
+otherwise your save game may not work.
+
+
+Fixed in V2.0
+-------------
+
+-------
+Generic
+-------
+
+Bricks in the dark outside-park area of Fantasy now match their
+surroundings (previously too bright)
+
+Corner sections of Halloween and Fantasy hoardings now fixed
+
+Breakdown hoardings now appear correctly around Halloween
+Tentacle Terror ride
+
+New cross-hair cursor in 1st person.
+
+Visitors now appear in the all visitors list if the list was
+up on screen when they arrived
+
+Selected address sometimes now shows correctly in the "E-mail
+address" window.
+
+Game still running indicator no longer appears when replaying a
+published park.
+
+CTRL-left-click to copy an item no longer places the item in the
+wrong place
+
+Player no longer gets stuck when using your camcorder to go into
+first-person in the very corner by the fence
+
+Bug when undoing already placed queue blocks now fixed
+
+Game now prints "2.0" at the bottom-right of the screen in the
+lobby.
+
+Server/No Server and Fatal/Not Fatal error distinction.
+
+Game now reports version 2.0 when ALT-V pressed while in a park.
+
+Erroneous semicolon no longer appears in address list when
+choosing an email address from the address book
+
+Wheels on the coasters now go round!
+
+Coaster sounds should all stop/start correctly now.
+
+With non-animating rides, moving them off screen then back on no
+longer causes corruption
+
+
+------
+Online
+------
+
+Upload/download parks with/without new rides bug fixed
+
+Players can't vote for their own park
+
+Only one vote per day allowed
+
+Downloads can now be aborted by pressing escape.
+
+Players can't now blackmark or goto themselves
+
+First-person online now moves your avatar around correctly
+
+There is now a proper error message if you reply without having
+been told anything yet
+
+Avatars are now more distinguishable in chat (twice as big)
+
+Rides no longer break down in online mode
+
+Added a confirmation dialog for going to someone in a
+different park has been added
+
+Goto will now goto someone's position in the park if in the
+same park
+
+Toilets no longer become dirty in online mode
+
+
+-------------
+Miscellaneous
+-------------
+
+Save/Load parks with coasters bug fixed (in particular
+with people in the queues)
+
+Kids chatter & music level now drop to zero on bankruptcy
+
+Option screen - various fixes made
+
+Sounds on water coasters now correct
+
+Timestamp on savegames now correct during daylight-saving
+time
+
+Exits from rides can be placed 'under' track rides and the
+bridges are built correctly.
+
+Dual Voodoo3 cards now supported
+
+Kids should now "beam up" when going onto space coasters
+
+Players can no longer walk into toilets and shops
+
+Sort on the dialog boxes is remembered
+
+Clipping on very tall objects in 1st person is now better
+
+1st person should be faster
+
+1st person fogging distance in different graphic quality
+settings is improved
+
+There is a resolution.sam file that enables higher res
+running
+
+The camera zoom can be unlocked with CTRL-SHIFT-ALT Space
+
+Coaster building has had a few tweaks
+
+Challenges have been fixed
+
+'Visitors scared' message binoculars icon will take you
+to the most exciting ride
+
+Players now walk in first person under bridges that span grass
+
+Software in the Theme Park World (c)1999 Electronic Arts Inc.
+All Rights Reserved.
